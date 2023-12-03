@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Button } from "react-bootstrap";
+import "./Counter.css";
 
 function Counter() {
   const [state, setState] = useState(0);
