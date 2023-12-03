@@ -1,6 +1,5 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-//Imprt Components
 import Counter from "./Components/Counter/Counter";
 
 function App() {
