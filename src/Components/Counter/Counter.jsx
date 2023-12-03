@@ -23,7 +23,7 @@ function Counter() {
       </Button>
       <br />
       <br />
-      <p>This is initial creation. created by Sajeesh</p>
+      <p>This is Initial Creation. Created by Sajeesh A B</p>
     </div>
   );
 }
